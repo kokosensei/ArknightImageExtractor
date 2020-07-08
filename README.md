@@ -3,7 +3,7 @@
 
 
 ## "食用"方法
-1. 使用[AssetStudio](https://www.perfare.net/1194.html)将明日方舟的charpack文件提取出来
+1. 使用[AssetStudio](https://www.perfare.net/1194.html)提取明日方舟charpack文件
 2. 将此程序放在与Texture2D同文件夹下
 
 ![alt text](./img/note.png)
